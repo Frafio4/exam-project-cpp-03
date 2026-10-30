@@ -1,0 +1,1 @@
+Il progetto risolve un esercizio sui grafi orientati verificando l'esistenza di un cammino semplice che parte da un nodo x e raggiunge un qualsiasi altro nodo da cui sia possibile tornare direttamente a x tramite un arco.
